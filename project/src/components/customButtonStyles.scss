@@ -1,0 +1,23 @@
+.aws-btn {
+    svg, img {
+      filter: invert(1); // This will turn the SVG color to white
+    }
+  }
+.aws-btn {
+
+    --button-hover-pressure: 2 !important;
+    --transform-speed: .185s !important;
+    --button-primary-color: #202228 !important;
+    --button-primary-color-dark: #c2c8d6 !important;
+    --button-primary-color-light: #d4d9e4 !important;
+    --button-primary-color-active: black !important;
+    --button-primary-color-hover: #222325 !important;
+    --button-primary-border: 0px solid #FFFFFF !important;
+    --button-secondary-color: #2429c2 !important;
+    --button-secondary-color-dark: #bed9e0 !important;
+    --button-secondary-color-light: #ffffff !important;
+    --button-secondary-color-hover: #2227b3 !important;
+    --button-secondary-color-active: #2227b3 !important;
+    --button-secondary-border: 1px solid #f5f4f1 !important;
+    --button-danger-color-light: #d4d9e4 !important;
+    }
